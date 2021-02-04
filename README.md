@@ -1,2 +1,2 @@
 # Infinite Scroll
-A project to showcase infinite scrolling. Pulls images from [Usplash](https://usplash.com)
+A project to showcase infinite scrolling. Pulls images from [Unsplash](https://unsplash.com)
